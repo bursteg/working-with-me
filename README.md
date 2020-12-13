@@ -3,7 +3,7 @@
 If you’re working with me or for me, the following information will be useful:
 
 ### Working location and hours
-I work from Israel, 10 hours ahead of PDT time zone. [This is the current time in Israel right now](https://www.google.com/search?q=israel+time+now). I work Sundays to Thursdays and split my days between Israel business hours and Redmond business hours. I generally have a morning working session between 10am-4pm Israel time (Midnight-6am PDT). My availability during PDT business hours: 
+I work from Israel, 10 hours ahead of PDT time zone. [This is the current time in Israel right now](https://www.google.com/search?q=israel+time+now). I work Sundays to Thursdays and split my days between Israel business hours and Redmond business hours. I generally have a morning working session between 10am-4pm Israel time (Midnight-6am PDT) and an evening session that overlaps with Redmond time. My availability during PDT business hours: 
 -	 Mondays, 10am-12pm PDT
 -	 Wednesdays, 10am-1pm PDT
 -	 Thursdays, 10am-1pm PDT
@@ -16,14 +16,14 @@ The time between 4pm and 8pm Israel time (6am-10am PDT) is reserved for my famil
 
 ### Communicating with me
 -	I prefer emails over IM. Emails allow me to read them offline and respond properly. IM’s are for quick and immediate updates or questions.
--	When you start an IM conversation with me, please let me know how I can help. Don’t ‘Hi’ me and want for me response.
+-	When you start an IM conversation with me, please let me know how I can help. Don’t ‘Hi’ me and wait for me response. Instead, please let me know how I can help you.
 -	Emails I send are not expected to be answered outside of your normal working hours just because I work in a different time zone. Same goes the other way – I may respond to emails during my working hours that might not align with yours.
 
 ## My management style
--	I try to be a mentor, provide guidance, and help with prioritization as much as I can. While I’d like to be in the details, I leave the actual work to you.
--	I’ll keep you as the front person in conversations with your stakeholders. I may share feedback and guidance with your privately, but will do my best keep you in the front.
+-	I try to mentor, provide guidance, and help with prioritization as much as I can. While I’d like to be in the details, I leave the actual work to you.
+-	I’ll keep you as the front person in conversations with your stakeholders. I may share feedback and guidance with you privately, but will do my best to keep you in the front.
 -	I will always support you and be your safety net. Feel free to use me as the bad guy in difficult conversations or escalations.
--	Your success is top-of-mind for me. I always think about your load, your visibility and look for opportunities for you to grow.
+-	Your success is top-of-mind for me. I always think about your workload, your visibility and look for opportunities for you to grow.
 -	I am open and transparent about my thoughts, my feelings, my ideas and when I have feedback. I expect the same way from everyone I work with.
 
 ## 1:1’s
@@ -37,13 +37,13 @@ Weekly 1:1’s are time slots reserved for you where you get my full attention. 
 
 **Be remote friendly**
  -	Every meeting should have a Teams link and inclusive to folks working remotely. 
- -	Turn on your camera during meetings with < 6 participants.
+ -	Turn on your camera during meetings with < 8 participants.
  -	Be inclusive to folks who work in different time zones and try to find a time that works for them as well.
  
 **Communicate asynchronously**
 - Share your ideas and plans as documents, stored in a shared folder. Invite other folks to review, collaborate and contribute.
-- Send and end of day email and share any updates you have with the team, so everyone has visibility to what you are working on. Include links to useful resources, meeting notes or documents for others to provide feedback on.
-- Review other team member’s end-of-day emails and provide your feedback.
+- Send an end of day email and share any updates you have with the team, so everyone has visibility to what you are working on. Include links to useful resources, meeting notes or documents for others to provide feedback on.
+- Review other team member’s end-of-day emails and provide your feedback. This is how you can contribute to someone elses success. 
 
 **Communicate broadly on a regular basis**
 - Announce releases, upcoming changes to design, processes and schedules in time for others to plan ahead and don’t get surprised.
