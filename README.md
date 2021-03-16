@@ -49,6 +49,11 @@ Weekly 1:1’s are time slots reserved for you where you get my full attention. 
 - Announce releases, upcoming changes to design, processes and schedules in time for others to plan ahead and don’t get surprised.
 -	Communicate status updates frequently with your stakeholders. People prefer updates pushed to them rather than asking for an update.
 
+**Document your knowledge regularly**
+- Change is the only constant thing at Microsoft. You never know when the next reorg will happen, when your manager will change and when new members are going to join the team. Document your knowledge regularly and prepare for a change.
+- When you document, think about the intended audience and the (lack of) context they might have on the topic. Assuming no context and explaining the current state, challenges with it and the proposed path forward takes the reader through a reasonable journey and helps them understand the topic.
+- Be humble and inclusive. Use terms like "proposed plan" and "proposed path forward" and invite others to provide feedback.
+
 **Prioritize ruthlessly and drive for efficiency**
 -	Your time is the most expensive resource we have and we must use it efficiently.
 -	We will always have less time and people for the work we’re expected to do. 
@@ -60,6 +65,7 @@ Weekly 1:1’s are time slots reserved for you where you get my full attention. 
 -	Your time is the most expensive resource you have and you should spend it wisely.
 -	Spend time arranging your calendar, making sure that the upcoming meetings are aligned with your highest priority projects. 
 -	Make sure you have enough focus time during the day. Block time if needed. If you spend all your day in meetings, you’ll end up doing your actual work off hours. This is not sustainable. 
+-	To avoid being randomized by stakeholders, set up weekly office hours. Track questions that come up during office hours and improve your documentation.
 
 **Manage your career and growth**
 -	I take your career very seriously and continue look for opportunities for your visibility and growth.
