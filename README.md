@@ -3,15 +3,10 @@
 If you’re working with me or for me, the following information will be useful:
 
 ### Working location and hours
-I work from Israel, 10 hours ahead of PDT time zone. [This is the current time in Israel right now](https://www.google.com/search?q=israel+time+now). I work Sundays to Thursdays and split my days between Israel business hours and Redmond business hours. I generally have a morning working session between 10am-4pm Israel time (Midnight-6am PDT) and an evening session that overlaps with Redmond time. My availability during PDT business hours: 
--	 Mondays, 10am-12pm PDT
--	 Wednesdays, 10am-1pm PDT
--	 Thursdays, 10am-1pm PDT
-
-The time between 4pm and 8pm Israel time (6am-10am PDT) is reserved for my family: My wife, 8 years old twins and a 5 years old.
+I work from Israel, 10 hours ahead of PDT time zone. [This is the current time in Israel right now](https://www.google.com/search?q=israel+time+now). I work Sundays to Thursdays.
 
 ### Meetings with me
--	Am I required for the meeting? Please schedule to a time that I can attend.
+-	Am I required for the meeting? Please schedule to a time that I can attend. My calendar should be available and up-to-date.
 -	Due to limited availability for meetings my default is to schedule 30-minutes meetings. Pre-reads are welcome to make short meetings more efficient.
 
 ### Communicating with me
